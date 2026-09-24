@@ -1,0 +1,46 @@
+term,column,type
+Dice Rolling,mech_dice_rolling,Mechanic
+Hand Management,mech_hand_management,Mechanic
+Set Collection,mech_set_collection,Mechanic
+Variable Player Powers,mech_variable_player_powers,Mechanic
+Card Drafting,mech_card_drafting,Mechanic
+Tile Placement,mech_tile_placement,Mechanic
+Modular Board,mech_modular_board,Mechanic
+Hexagon Grid,mech_hexagon_grid,Mechanic
+Area Majority / Influence,mech_area_majority_influence,Mechanic
+Simulation,mech_simulation,Mechanic
+Cooperative Game,mech_cooperative_game,Mechanic
+Grid Movement,mech_grid_movement,Mechanic
+Action Points,mech_action_points,Mechanic
+Simultaneous Action Selection,mech_simultaneous_action_selection,Mechanic
+Area Movement,mech_area_movement,Mechanic
+Auction/Bidding,mech_auction_bidding,Mechanic
+Take That,mech_take_that,Mechanic
+Roll / Spin and Move,mech_roll_spin_and_move,Mechanic
+Solo / Solitaire Game,mech_solo_solitaire_game,Mechanic
+Push Your Luck,mech_push_your_luck,Mechanic
+Team-Based Game,mech_team_based_game,Mechanic
+Worker Placement,mech_worker_placement,Mechanic
+Point to Point Movement,mech_point_to_point_movement,Mechanic
+Memory,mech_memory,Mechanic
+"Deck, Bag, and Pool Building",mech_deck_bag_and_pool_building,Mechanic
+Card Game,cat_card_game,Category
+Wargame,cat_wargame,Category
+Fantasy,cat_fantasy,Category
+Dice,cat_dice,Category
+Fighting,cat_fighting,Category
+Science Fiction,cat_science_fiction,Category
+Party Game,cat_party_game,Category
+Economic,cat_economic,Category
+Animals,cat_animals,Category
+Children's Game,cat_children_s_game,Category
+Abstract Strategy,cat_abstract_strategy,Category
+Bluffing,cat_bluffing,Category
+Adventure,cat_adventure,Category
+Deduction,cat_deduction,Category
+Humor,cat_humor,Category
+Medieval,cat_medieval,Category
+Miniatures,cat_miniatures,Category
+Exploration,cat_exploration,Category
+Movies / TV / Radio theme,cat_movies_tv_radio_theme,Category
+Action / Dexterity,cat_action_dexterity,Category
